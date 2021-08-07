@@ -1,4 +1,4 @@
-<h2 align="center"> Olá! Eu sou Wesley Carvalho!!</h2>
+<h2 align="center"> Hello World, I'm Wesley Carvalho!</h2>
 
 🖥️ I'm a beginner in technology.<br>
 🎯 Focused on learning everything about Web Development.<br>
